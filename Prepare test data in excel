@@ -1,0 +1,9 @@
+Data Driven data in Excel
+----------------------------
+-> Prepare test data in excel
+-> Add Apache poi dependency in pom.xml file
+
+-------------------------------------------------
+XL ultility file(java class file) wich will read data from excel
+
+Write testNG test with DataProvide 
